@@ -1,0 +1,10 @@
+jdbcDriver=mysql
+serverName=localhost
+port=3306
+dataBaseName=pre_project1.5
+serverTimezone=UTC
+useSSL=false
+user=root
+password=7CthdthVfhutyintqyf6
+typeDAO=hibernate
+allowPublicKeyRetrieval=true
