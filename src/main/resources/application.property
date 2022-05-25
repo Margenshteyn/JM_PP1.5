@@ -5,6 +5,6 @@ dataBaseName=pre_project1.5
 serverTimezone=UTC
 useSSL=false
 user=root
-password=7CthdthVfhutyintqyf6
+password=
 typeDAO=hibernate
 allowPublicKeyRetrieval=true
